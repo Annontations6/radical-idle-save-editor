@@ -4,7 +4,7 @@ import { BigNumber } from "./api/BigNumber";
 import { theory } from "./api/Theory";
 import { Utils } from "./api/Utils";
 
-var id = "my_custom_theory_id";
+var id = "html";
 var name = "Radical Idle";
 var description = "Radical Idle (RI)";
 var authors = "Annontations6";
